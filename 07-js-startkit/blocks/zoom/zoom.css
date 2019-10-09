@@ -1,7 +1,0 @@
-@import url(./__image/zoom__image.css);
-@import url(./__close/zoom__close.css);
-@import url(./_is-opened/zoom_is-opened.css);
-
-.zoom {
-    display: none;
-  }
