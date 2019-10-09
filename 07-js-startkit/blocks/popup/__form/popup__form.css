@@ -1,0 +1,5 @@
+@import url('./_is-invalid/form_is-invalid.css');
+
+.popup__form {
+  margin-top: 60px;
+}

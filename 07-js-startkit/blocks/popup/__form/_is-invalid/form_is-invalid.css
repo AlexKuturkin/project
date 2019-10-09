@@ -1,0 +1,4 @@
+.form_is-invalid .popup__span {
+    padding: 5px;
+    opacity: 1;
+  }
