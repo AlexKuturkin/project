@@ -171,7 +171,7 @@ addButtonEdit.addEventListener('click', function () {
   nickForm.parentNode.classList.remove('form_is-invalid');
   aboutForm.parentNode.classList.remove('form_is-invalid');
   
-  userInfoSave.classList.add('button_is-active');}
+  userInfoSave.classList.add('button_is-active');
 });
 
 /* Обработчик закрытия окна добавления карточки*/
